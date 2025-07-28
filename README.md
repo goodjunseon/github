@@ -5,9 +5,7 @@
 
 ### Branch Strategy
 
->
-
-
+> [Branch 전략과 Convention](BranchStrategy/HELP.md)
 
 ---
 
